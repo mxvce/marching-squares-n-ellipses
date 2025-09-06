@@ -1,6 +1,6 @@
-Just learning marching squares and sdl3.
+Just learning marching squares and sdl3 and quicky put together some code.
 
-Program draws `n`-ellipse
+Program draws an `n-ellipse`.
 
 In order to run the code:
 - download files and follow steps from [Link to demo project in sdl](https://github.com/Ravbug/sdl3-sample/wiki/Setting-up-your-computer)
